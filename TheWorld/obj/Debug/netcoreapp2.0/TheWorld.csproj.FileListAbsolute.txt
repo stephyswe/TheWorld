@@ -1,0 +1,4 @@
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp2.0\TheWorld.csprojResolveAssemblyReference.cache
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp2.0\TheWorld.csproj.CoreCompileInputs.cache
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp2.0\TheWorld.AssemblyInfoInputs.cache
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp2.0\TheWorld.AssemblyInfo.cs

@@ -1,0 +1,44 @@
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+F:\ShawnDev\TestStudio\m06 - Before\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\Visual Studio\_Big Projects\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\ASP.NET Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb

@@ -1,0 +1,11 @@
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Release\netcoreapp1.1\TheWorld.deps.json
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Release\netcoreapp1.1\TheWorld.runtimeconfig.json
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Release\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Release\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\bin\Release\netcoreapp1.1\TheWorld.pdb
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Release\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Release\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Release\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Release\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Release\netcoreapp1.1\TheWorld.dll
+F:\Stephanie\Development\Visual Studio\Temporary\The World\Section 11 Complete\TheWorld\obj\Release\netcoreapp1.1\TheWorld.pdb

@@ -1,0 +1,23 @@
+@{
+  ViewBag.Title = "Home Page";
+}
+@section scripts {
+	<script src="~/lib/underscore/underscore-min.js"></script>
+	<script src="~/lib/angular/angular.min.js"></script>
+	<script src="~/lib/angular-route/angular-route.min.js"></script>
+	<script src="http://maps.google.com/maps/api/js?&key=AIzaSyDxCA40I6gMnIw1cV0hq2gsPWuin4kiME8"></script>
+	<script src="~/lib/gmaps/gmaps.min.js"></script>
+	<script src="~/lib/travelmap/travelmap.min.js"></script>
+
+
+<environment names="Development">
+    <script src="~/lib/_app/simpleControls.js"></script>
+    <script src="~/lib/_app/app-trips.js"></script>
+    <script src="~/lib/_app/tripsController.js"></script>
+    <script src="~/lib/_app/tripEditorController.js"></script>
+</environment>
+    
+}
+<div class="row" ng-app="app-trips">
+	<div ng-view></div>
+</div>
